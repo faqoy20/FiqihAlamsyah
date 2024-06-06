@@ -16,4 +16,4 @@ Tujuan dari repository ini adalah untuk menunjukkan keterampilan pemrograman dan
 Berikut adalah beberapa bahasa pemrograman dan teknologi yang digunakan dalam solusi ini:
 
 - PHP
-- json_encode
+- JSON_encode
